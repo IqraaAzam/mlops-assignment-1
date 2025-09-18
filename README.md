@@ -31,7 +31,7 @@ mlops-assignment-1/
 ### Cloning the Repository
 ```bash
 git clone https://github.com/IqraaAzam/mlops-assignment-1.git
-``
+```
 Creating Feature Branches
 ```bash
 git checkout -b feature/branch_name
