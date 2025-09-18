@@ -20,3 +20,14 @@ mlops-assignment-1/
 
 # Model Comparison
 ![alt text](image.png)
+
+
+# MLflow Tracking
+
++ Experiment: "Wine_Classification".
+
++ Runs: 3 per model (e.g., LR with C=0.1, 1.0, 10.0).
+
++ Logged: Parameters, metrics, confusion matrices, models.
+
++ Screenshots: results/mlflow_screenshot.png, results/registry_screenshot.png
