@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/762586276057879111/0d9d6107996e4885a43d158f25ed641e/artifacts
+end_time: 1758181294044
+entry_point_name: ''
+experiment_id: '762586276057879111'
+lifecycle_stage: active
+run_id: 0d9d6107996e4885a43d158f25ed641e
+run_name: lr_run1
+run_uuid: 0d9d6107996e4885a43d158f25ed641e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758181260438
+status: 3
+tags: []
+user_id: sumai
