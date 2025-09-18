@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1758182464702
+current_stage: None
+description: ''
+last_updated_timestamp: 1758182464702
+name: WineClassifier
+run_id: 2d22b7f14a544422b2b6d2ac9d2ae80c
+run_link: ''
+source: mlflow-artifacts:/762586276057879111/2d22b7f14a544422b2b6d2ac9d2ae80c/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/762586276057879111/2d22b7f14a544422b2b6d2ac9d2ae80c/artifacts/model
+user_id: null
+version: 1
