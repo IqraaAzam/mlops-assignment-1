@@ -1,5 +1,3 @@
-# MLOps Assignment 1\nSetup complete.
-
 ## Overview
 
 This project implements MLOps Assignment 1, using the Wine dataset to train and compare ML models, track experiments with MLflow, and register the best model. Code was written from scratch in Python with scikit-learn. Feature branches and pull requests show merging effects. Multiple MLflow runs per model were logged for comparison.
